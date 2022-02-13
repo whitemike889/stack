@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.whitemike889.stack.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.whitemike889.stack.MyBundle
 
 class MyApplicationService {
 
